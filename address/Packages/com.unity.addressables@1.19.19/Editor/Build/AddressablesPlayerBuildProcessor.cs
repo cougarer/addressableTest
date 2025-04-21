@@ -192,6 +192,7 @@ public class AddressablesPlayerBuildProcessor : IPreprocessBuildWithReport, IPos
     /// <param name="report">Contains build data information.</param>
     public void OnPreprocessBuild(BuildReport report)
     {
+        Debug.LogError("123123");
         CopyTemporaryPlayerBuildData();
     }
 
