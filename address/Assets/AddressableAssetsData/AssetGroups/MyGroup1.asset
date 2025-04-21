@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: e07a6a1e980a4d3479289807d69c3646
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: db414756d9b087c45a668a32afe38f1c
+    m_Address: Assets/Assetbundles/Sprite/Snipaste_2024-02-01_13-45-11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 5a808732fbaada34bb2085343e39196f, type: 2}
   m_SchemaSet:
